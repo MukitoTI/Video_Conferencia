@@ -43,3 +43,4 @@ Quando falamos em “all-in-one” no contexto de telas interativas / monitores 
  * ✍️ Funções de quadro / anotações / colaboração: permite desenhar, escrever, apagar diretamente na tela, fazer anotações, apresentações, usar como “quadro branco digital”.
  * 🔄 Funções adicionais para reunião/aula: compartilhamento de tela, anotações persistentes, armazenamento, software para conferência/colaboração, controles centralizados.
 
+Em resumo: você tem “uma TV touch + computador + câmera + microfone + quadro digital + hub de conferência” tudo num único aparelho. Isso reduz a complexidade e facilita reuniões, aulas, apresentações: basta ligar e começar.
