@@ -16,6 +16,8 @@ sistemas de videoconferência avançados com câmeras inteligentes e microfones 
   * **Plataformas com IA**: Softwares que utilizam inteligência artificial para otimizar reuniões, como a Microsoft Copilot, que aprimora a colaboração e a tomada de decisões.
   * **Plataformas Colaborativas Integradas**: Soluções que combinam hardware e software para facilitar a comunicação, o compartilhamento de telas e o engajamento dos participantes em reuniões híbridas.
 
+
+```
 [Usuários]───┐
              │     Wi‑Fi                       Internet/Backbone GDF
  BYOD (USB‑C)│      │                         ┌──────────────────────────┐
@@ -28,3 +30,5 @@ Touch Panel     │         │                   └─────────
               [Microfones PoE]     [Caixas Acústicas]
                 │                      │
                [Pedestal/Suporte]—[Tela/LCD 4K]
+
+```
