@@ -14,4 +14,17 @@ sistemas de videoconferência avançados com câmeras inteligentes e microfones 
   * **Controle Térmico Inteligente**: Sensores que monitoram a ocupação do espaço e as condições externas para ajustar a temperatura, otimizando o conforto e prevenindo o desconforto que pode reduzir a produtividade.
 ### Inteligência Artificial e Software
   * **Plataformas com IA**: Softwares que utilizam inteligência artificial para otimizar reuniões, como a Microsoft Copilot, que aprimora a colaboração e a tomada de decisões.
-  * **Plataformas Colaborativas Integradas**: Soluções que combinam hardware e software para facilitar a comunicação, o compartilhamento de telas e o engajamento dos participantes em reuniões híbridas. 
+  * **Plataformas Colaborativas Integradas**: Soluções que combinam hardware e software para facilitar a comunicação, o compartilhamento de telas e o engajamento dos participantes em reuniões híbridas.
+
+[Usuários]───┐
+             │     Wi‑Fi                       Internet/Backbone GDF
+ BYOD (USB‑C)│      │                         ┌──────────────────────────┐
+Laptop/Mobile├──┐  [AP]───┐                   │  Serviços UC (Teams/Zoom │
+             │  │         │                   │  Meet) + SBC/Firewall    │
+[Controle]───┘  │         ├─(VLAN‑AV/QoS)─[Switch PoE]──[Firewall]──[NAT]─┤
+Touch Panel     │         │                   └──────────────────────────┘
+                │   [DSP/Codec/Appliance]───[Câmera PTZ]
+                │         │
+              [Microfones PoE]     [Caixas Acústicas]
+                │                      │
+               [Pedestal/Suporte]—[Tela/LCD 4K]
