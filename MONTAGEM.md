@@ -28,3 +28,7 @@ A tela de 65" é pesada (entre 35kg e 50kg).
 Pesquise como as pessoas vão projetar seus notebooks na tela sem usar cabos.
   * **Dongles HDMI Wireless**: Como o ClickShare ou sistemas nativos das telas (eShare, ScreenShare).
   * **Cabos de Segurança**: Mesmo sendo sem fio, tenha sempre um cabo HDMI 2.1 e um USB-C de alta qualidade saindo da mesa como plano B.
+
+-------------------------------------------------------------------------------------
+
+### Tabela de Checklist Tecnológico
